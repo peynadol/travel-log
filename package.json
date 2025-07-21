@@ -25,7 +25,7 @@
     "husky": "^9.1.7",
     "lint-staged": "^16.1.2"
   },
-  "lint-stagaged": {
+  "lint-staged": {
     "*": "pnpm lint"
   }
 
