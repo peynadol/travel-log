@@ -8,10 +8,8 @@ Make sure to install dependencies:
 
 ```bash
 
-
 # pnpm
 pnpm install
-
 
 ```
 
@@ -34,18 +32,13 @@ Build the application for production:
 # pnpm
 pnpm build
 
-
 ```
 
 Locally preview production build:
 
 ```bash
 
-
-
 # pnpm
 pnpm preview
 
-
 ```
-
